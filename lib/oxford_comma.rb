@@ -1,5 +1,5 @@
-def oxford_comma(",")
-  string = []
+def oxford_comma(value)
+  value = []
 
 
 end
