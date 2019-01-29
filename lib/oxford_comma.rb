@@ -1,5 +1,5 @@
 def oxford_comma(value)
-  value = []
+  value = "kiwi"
 
 
 end
